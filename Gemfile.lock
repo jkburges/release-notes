@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jsonpath (0.5.7)
+      multi_json
+    multi_json (1.11.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jsonpath
+
+BUNDLED WITH
+   1.10.5
